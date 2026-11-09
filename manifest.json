@@ -1,0 +1,11 @@
+{
+  "display_name": "Ult_generation",
+  "loading_order": 10,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "author": "Ваше Имя (или никнейм)",
+  "version": "1.0.0",
+  "homePage": "https://github.com/ВАШ_НИК/ult-generation",
+  "auto_update": true
+}
